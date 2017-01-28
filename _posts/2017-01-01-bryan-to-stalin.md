@@ -21,9 +21,10 @@ The impression we're to come away with is of the author as a humble rank-and-fil
 
 # Topics
 
-- Participant history
+- First person
   - [ ] at the right place at the right time
   - [ ] colorful anecdotes (hoboing)
+  - [ ] mystery of autodidacticism
 - Structure
   - [ ] Description of organizational periodization
   - [x] Overall tone
