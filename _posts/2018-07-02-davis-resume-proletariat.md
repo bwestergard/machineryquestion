@@ -64,7 +64,7 @@ them:
 This effort to put together a \"balance sheet\" for the workers\'
 movement recalls [A History of
 Separation](https://endnotes.org.uk/issues/4/en/endnotes-preface) (2015)
-by the editorial collective of the *Endnotes*, for whom Davis\' *Planet
+by the *Endnotes* editorial collective, for whom Davis\' *Planet
 of Slums* (2006) was [a key
 text](https://endnotes.org.uk/issues/2/en/endnotes-misery-and-debt).
 Davis\' theses are an effort to articulate what *Endnotes* called the
