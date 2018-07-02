@@ -4,9 +4,7 @@ updated: 2018-07-02T22:53:34.747Z
 ---
 
 The titular essay of Mike Davis\' new book [*Old Gods, New Enigmas*](https://www.versobooks.com/books/2779-old-gods-new-enigmas) is
-ludicrously ambitious in its scope and concision. I\'d recommend it to
-anyone looking to get the biggest of big picture views of working class
-politics in its heroic era.
+ludicrously ambitious in its scope and concision. I\'d recommend it to anyone looking to get the biggest of big picture views of the working class in its heroic era.
 
 It contains two passes over the history of the European and American
 working classes between 1838 and 1921 - its institutions, its doctrines,
