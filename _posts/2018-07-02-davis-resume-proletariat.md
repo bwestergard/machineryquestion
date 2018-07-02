@@ -3,7 +3,7 @@ title: 'A Résumé for the Proletariat by Mike Davis'
 updated: 2018-07-02T22:53:34.747Z
 ---
 
-The titular essay of Mike Davis\' new book *Old Gods, New Enigmas* is
+The titular essay of Mike Davis\' new book [*Old Gods, New Enigmas*](https://www.versobooks.com/books/2779-old-gods-new-enigmas) is
 ludicrously ambitious in its scope and concision. I\'d recommend it to
 anyone looking to get the biggest of big picture views of working class
 politics in its heroic era.
