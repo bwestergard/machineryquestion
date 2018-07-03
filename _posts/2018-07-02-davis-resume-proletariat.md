@@ -13,7 +13,7 @@ political periodization of that interval. In the second, he puts forward
 a number of theses about this working class organized under thematic
 headings and elaborated upon at length.
 
-I\'ve excerpted the theses below. Here is how Davis sets the stage for
+I\'ve excerpted these theses below. Here is how Davis sets the stage for
 them:
 
 > Although everyone agrees that proletarian agency is at the very core
