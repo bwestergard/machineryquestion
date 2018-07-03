@@ -10,7 +10,7 @@ It contains two passes over the history of the European and American working cla
 
 In the first pass of only a few hundred words, he offers a rough
 political periodization of that interval. In the second, he puts forward
-a number theses about this working class organized under thematic
+a number of theses about this working class organized under thematic
 headings and elaborated upon at length.
 
 I\'ve excerpted the theses below. Here is how Davis sets the stage for
