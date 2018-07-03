@@ -64,7 +64,7 @@ of Slums* (2006) was [a key
 text](https://endnotes.org.uk/issues/2/en/endnotes-misery-and-debt).
 Davis\' theses are an effort to articulate what *Endnotes* called the
 political \"horizon\" of the old workers\' movement. Like *Endnotes*,
-Davis draws on Geoff Eley\'s *Forging Democracy* to relate the stories
+Davis draws on Geoff Eley\'s *Forging Democracy* (2002) to relate the stories
 of women struggling outside factory gates.
 
 Theses
