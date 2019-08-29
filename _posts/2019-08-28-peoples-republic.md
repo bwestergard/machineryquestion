@@ -319,7 +319,7 @@ but the creation of new mechanism that aggregates preferences in lieu of
 political debate?
 
 I am sure that such mechanisms can be constructed, and equally sure that
-to do so would bring us no closer to realizing socialist ideals.
+they would bring us no closer to realizing socialist ideals.
 
 Footnotes
 =========
