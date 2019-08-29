@@ -1,5 +1,5 @@
 ---
-title: 'Review: People\'s Republic of Walmart'
+title: "Review: People's Republic of Walmart"
 updated: 2016-09-03T10:07:29-04:00
 ---
 
