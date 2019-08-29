@@ -312,7 +312,7 @@ increase in the price of oil induces oil production regardless of suppliers' att
 
 When Phillips and Rozworski argue that "big data" can "facilitate what
 Hayek thought only markets are capable of", what can they have in mind
-but the creation of new mechanism that aggregates preferences in lieu of
+but the creation of new mechanisms to aggregate preferences in lieu of
 political debate?
 
 I am sure that such mechanisms can be constructed, and equally sure that
