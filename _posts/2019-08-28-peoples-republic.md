@@ -236,7 +236,7 @@ than to Marxian socialism.
 On their telling, Hayek saw markets as uniquely able to "aggregate and
 put to use the information dispersed throughout society". But today,
 product recommendation systems have beat the market at its own game, so
-to speak:
+to speak (emphasis mine)[^18]:
 
 > ...Today’s deliberately planned IT systems are starting to create
 > "group knowledge" (collective intelligence, or shared information that
@@ -253,10 +253,10 @@ to speak:
 > variables associated with faddish consumer items in particular
 > forecloses the capacity for their socialization), although he
 > certainly would have admired the capitalists such as Bezos who own the
-> data and use it to pad their obscene fortunes. **\*\*It is a delicious
+> data and use it to pad their obscene fortunes. **It is a delicious
 > irony that big data, the producer and discoverer of so much new
 > knowledge, could one day facilitate what Hayek thought only markets
-> are capable of.\*\***
+> are capable of.**
 
 This "group knowledge" sounds suspiciously like the mysterious
 ["catallaxy"](https://en.wikipedia.org/wiki/Catallaxy) appealed to by
@@ -381,3 +381,4 @@ Footnotes
 
 [^17]: O'Neill, "The Market" (1998), page 19.
 
+[^18]: Page 85.
