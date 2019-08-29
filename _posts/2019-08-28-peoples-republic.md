@@ -10,7 +10,7 @@ Magazine](https://jacobinmag.com/)'s joint publishing venture. Its theme is plan
 polity of tomorrow.
 
 The supercession of the market by economic planning was long thought, by
-both proponents and detractors, to be the characteristic goal of the
+both proponents and detractors, to be the characteristic goal of
 workers' movements worldwide. Since the crisis of 2008, interest in the
 creeds of these movements ("socialism", "communism", "anarchism") has
 exploded, due in no small part to the efforts of magazines like
@@ -24,7 +24,7 @@ debate](https://en.wikipedia.org/wiki/Socialist_calculation_debate)
 specifically, **People's Republic of Wal-Mart** is laudable.
 
 The authors take the reader on a tour of topics loosely related to the
-calculation debate per se, and along the way present highly condensed
+calculation debate per se and along the way present highly condensed
 arguments against capitalism and for economic planning with 'democratic'
 features[^1]. What precisely is understood by 'planning' and what might
 make future implementations 'democratic' remains hazy throughout.
@@ -54,11 +54,8 @@ compare the incentives to produce a drug that merely amelioriates a
 chronic health condition with the incentives to produce a drug that
 cures the patient's illness in one fell swoop. While the patient can be
 expected to prefer a cure, a revenue stream that endures as long as the
-patient does might prove more attractive drugmaker[^7]. This anxiety
-about proper standards of conduct for the practioners of some art (e.g.
-healing) being subordinated to commercial standards is at least as old
-as the Platonic dialogs ("is medicine to be the art of fee-making
-because the healer collects a fee for healing?"[^8]).
+patient does might prove more attractive to a drugmaker[^7]. This anxiety
+about proper standards of conduct for the practioners of some art being subordinated to commercial standards is at least as old as the Platonic dialogues ("Is medicine to be the art of fee-making because the healer collects a fee for healing?"[^8]).
 
 The "allocation mechanism" of secondary importance in capitalist
 modernity is "planning", which firms use to manage resources internally.
@@ -71,7 +68,7 @@ mechanism must become primary, the "planning" used within firms today
 must be used without tomorrow[^10].
 
 The former Soviet Union and Walmart - the "twin giants of central
-planning" - demonstrate that "planning works" but are normatively
+planning" - demonstrate that "planning works", but they are normatively
 unacceptable (because undemocratic) models. We're repeatedly assured
 that the kind planned economy envisioned by the authors would be
 "coordinated by ordinary working people, rather than by bureaucrats or
@@ -81,7 +78,7 @@ We're invited to imagine "...Walmart's operational efficiency, its
 logistical genius, its architecture of agile economic planning...
 captured and transformed by those who aim toward a more egalitarian,
 liberatory society!"[^11] To create a viable socialist order, our fellow
-worker Prometheus must first steal fire from Capital's Mount Olympus.
+worker Prometheus must first steal fire from capital's Mount Olympus.
 
 Rebuttals to Austrian critiques
 ===============================
@@ -110,7 +107,7 @@ equations"[^13]. Phillips and Rozworksi counter that whatever the case
 may have been when Hayek wrote, the advent of "big data" in e-commerce,
 which "is testing the limits of how much granular information can be
 collected", has eliminated any informational obstacles. Product
-recomendation systems like Amazon's are held up as a "crucial
+recommendation systems like Amazon's are held up as a "crucial
 innovation" for those who hope for a planned economy that can "satisfy
 consumer wants", because they "\[condense\]... the chaos of individual
 tastes an opinions... into something useable".
@@ -128,11 +125,11 @@ Amazon and Walmart's "logistical genius" - which is genuinely novel and
 interesting - is in solving the problem of distributing goods to
 consumers through a network of warehouses connected by variety
 transportation mechanisms. This problem is at root a series of enmeshed
-inventory, routing, and scheduling problems.
+[inventory](https://en.wikipedia.org/wiki/Inventory_optimization), [routing](https://en.wikipedia.org/wiki/Vehicle_routing_problem), and [scheduling](https://en.wikipedia.org/wiki/Scheduling_(production_processes)) problems.
 
 The animating question of the socialist calculation debate, on the other
 hand, was how a polity that had abolished private property in production
-goods (cf. "capital", "the means of production", "higher order" goods)
+goods (compare "capital", "the means of production", "higher order" goods)
 would allocate these production goods to different producing entities.
 
 Solutions to the aforementioned logistical problems do not entail
@@ -145,10 +142,10 @@ exchange with a technical division of labor - and the complex
 subcontracting relationships typical of contemporary supply chains.
 
 To see how today's logistical problems and the economic planning
-problems of the calcultation debate differ, consider how products you
+problems of the calculation debate differ, consider how products you
 order on Amazon today are produced and sold.
 
-Let's say you order some "Amazon Basics"-branded No.2 Pencils or a
+Let's say you order some "Amazon Basics"-branded #2 Pencils or a
 package of alkaline batteries. They are probably already resting in a
 warehouse near your home thanks to software that allows Amazon employees
 to anticipate the aggregate demand for these commodities. Because Amazon
@@ -171,7 +168,7 @@ constitute inputs for the production of hundreds of thousands of goods
 sold through Amazon?
 
 Amazon employees didn't know. They didn't draw up ex ante consistent
-allocations of graphite. Amazon simply doesn't allocate production goods
+allocations of graphite. Amazon doesn't allocate production goods
 to firms which manufacture for its virtual shelves. Those firms (and the
 firms they buy from, and the firms those firms buy from, etc.) turn to
 the market to acquire the inputs they believe will prove instrumental in
@@ -185,7 +182,7 @@ up the supply chain, there would be something to the book's claim that
 and potentially "vast" scale. They are not, so there isn't.
 
 The Soviet Union's state planning agency, Gosplan, did tackle problems
-of this kind through the method of "material balances" among others.
+of this kind through the method of ["material balances"](https://en.wikipedia.org/wiki/Material_balance_planning) among others.
 Likewise, capitalist firms pursued vertical integration strategies to
 such extremes they too began to face similar administrative and
 computational difficulties. Henry Ford, for example, could boast that
@@ -199,7 +196,7 @@ goods to those who produce for their shelves. Why would they?
 Phillips and Rozworski's response to Hayek is similarly confused.
 
 Hayek argued[^15] that there would be three types of information a
-central planning board would require but find impossible to marshall.
+central planning board would require but find impossible to marshal.
 First, a very granular and constantly updated inventory of all
 production goods, their state of repair (e.g. remaining useful lifetime
 of a machine) and location. Second, mathematical functions (think:
@@ -358,8 +355,8 @@ Footnotes
 [^12]: Mises did not argue that the essential difficulty with socialist
     planning would be the sheer number of calculations it would require.
     Other disputants, like Robbins and Hayek, put forward such
-    "equation-difficulty"\[fn:11\] arguments, alongside others they held
-    to be dispositive\[fn:13\]. Mises downplayed the significance of
+    "equation-difficulty" arguments, alongside others they held
+    to be dispositive. Mises downplayed the significance of
     such arguments because he denied the premise that the relevant
     systems of equations could be formulated.
 
