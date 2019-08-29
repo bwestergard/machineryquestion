@@ -308,7 +308,7 @@ argument, a value-neutral mechanism is needed to "aggregate whatever
 ideals people happen to have, without conversation or judgement on those
 ideals themselves" (O'Neill). The market order of private property
 rights and free contract is just such a non-dialogical mechanism: an
-increase in the price of oil induces oil production regardless of individual supplier's attitudes toward climate change.
+increase in the price of oil induces oil production regardless of suppliers' attitudes toward climate change.
 
 When Phillips and Rozworski argue that "big data" can "facilitate what
 Hayek thought only markets are capable of", what can they have in mind
