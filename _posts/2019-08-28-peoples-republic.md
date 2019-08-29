@@ -297,8 +297,7 @@ secure the support of those who do (which support is sure to fail in
 times of crisis). Many on the socialist left today believe, as Hayek
 did, that our society does not impose a collective project on its
 members[^16]. The thought follows naturally enough that socialist
-institutions must scrupulously preserve this value-neutrality of the
-market. But we cannot preserve what does not exist.
+institutions must scrupulously preserve the market's value-neutrality. But we cannot preserve what does not exist.
 
 As the philosopher John O'Neill notes[^17], Hayek's argument depends for
 its force on the assertion that "beliefs about values do not answer to
