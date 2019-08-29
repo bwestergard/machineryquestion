@@ -262,7 +262,7 @@ This "group knowledge" sounds suspiciously like the mysterious
 Austrians in their defenses of capitalism. In their eagerness to
 demonstrate that "big data" could possess the virtues Austrians ascribed
 to the market and the market alone, Phillips and Rozworski seem to have
-forgotten to question whether those were ever legitimate virtues.
+forgotten to question whether those were legitimate virtues in the first place.
 
 For Hayek, capitalist society does not impose a collective purpose on
 its denizens, and is therefore a "Great Society" unprecedented in world
