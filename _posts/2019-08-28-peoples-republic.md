@@ -255,7 +255,7 @@ to speak (emphasis mine)[^18]:
 > are capable of.**
 
 This "group knowledge" sounds suspiciously like the mysterious
-["catallaxy"](https://en.wikipedia.org/wiki/Catallaxy) appealed to by
+"[catallaxy](https://en.wikipedia.org/wiki/Catallaxy)" appealed to by
 Austrians in their defenses of capitalism. In their eagerness to
 demonstrate that "big data" could possess the virtues Austrians ascribed
 to the market and the market alone, Phillips and Rozworski seem to have
