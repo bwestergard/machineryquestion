@@ -323,8 +323,7 @@ Footnotes
     14-15) and to participate in that debate themselves (Page 16).
 
 [^2]: John O'Neill's "The Market: Ethics, Knowledge, and Politics"
-    (1998) is an excellent summary of these arguments, but is likely a
-    slog for all but the most motivated readers.
+    (1998) is an excellent summary of these arguments, but was written for a specialist audience.
 
 [^3]: Page 4
 
@@ -355,10 +354,8 @@ Footnotes
 [^12]: Mises did not argue that the essential difficulty with socialist
     planning would be the sheer number of calculations it would require.
     Other disputants, like Robbins and Hayek, put forward such
-    "equation-difficulty" arguments, alongside others they held
-    to be dispositive. Mises downplayed the significance of
-    such arguments because he denied the premise that the relevant
-    systems of equations could be formulated.
+    "equation-difficulty" arguments, but only alongside others they held
+    to be dispositive. The equation-difficulty argument was first hinted at by Barone in "The Ministry of Production in the Collectivist State" (1908). In "[Human Action](https://mises.org/library/human-action-0)" (p. 706-711), Mises downplayed the significance of such arguments because he denied the premise that the relevant systems of equations could be formulated. The phrase "equation-difficulty argument" is from Rothbard, "[The End of Socialism and the Calculation Debate Revisited](https://mises.org/library/end-socialism-and-calculation-debate-revisited)" (1999).
 
 [^13]: Page 60
 
