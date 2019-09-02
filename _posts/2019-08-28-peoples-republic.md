@@ -298,8 +298,8 @@ institutions must scrupulously preserve the market's value-neutrality. But we ca
 As the philosopher John O'Neill notes[^17], Hayek's argument depends for
 its force on the assertion that "beliefs about values do not answer to
 rational argument". If rational argument could settle disagreements
-about which products needed to be provisioned and services offered for
-citizens to lead good lives, socialism might be both feasible and
+about the products that needed to be provisioned and the services that needed to be offered for
+citizens to lead a variety of good lives, socialism might be both feasible and
 desirable. But because ideals and values are inaccessible to rational
 argument, a value-neutral mechanism is needed to "aggregate whatever
 ideals people happen to have, without conversation or judgement on those
