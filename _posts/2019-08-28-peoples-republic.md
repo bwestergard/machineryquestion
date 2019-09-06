@@ -265,7 +265,7 @@ For Hayek, capitalist society does not impose a collective purpose on
 its denizens, and is therefore a "Great Society" unprecedented in world
 history. The principal merit of this order is that it allows
 participants to coexist without having to discuss their aims, much less
-agree on them:
+agree on them[^19]:
 
 > The Great Society arose through the discovery that men can live
 > together in peace and mutually benefit each other without agreeing on
@@ -374,3 +374,5 @@ Footnotes
 [^17]: O'Neill, "The Market" (1998), page 19.
 
 [^18]: Page 85.
+
+[^19]: Hayek, "[Law, Legislation and Liberty](https://books.google.com/books?id=9IpEBAAAQBAJ&pg=PA269&lpg=PA269&dq=The+Great+Society+arose+through+the+discovery+that+men+can+live+together+in+peace&source=bl&ots=unlqpAWKhu&sig=ACfU3U2NnxfqfmeXjCLkhukvta10RsHiMQ&hl=en&sa=X&ved=2ahUKEwitk6TXnrzkAhXRhOAKHR5RBpEQ6AEwCnoECAUQAQ#v=onepage&q=The%20Great%20Society%20arose%20through%20the%20discovery%20that%20men%20can%20live%20together%20in%20peace&f=false)" (1982)
