@@ -1,12 +1,13 @@
 ---
 title: "Review: People's Republic of Walmart"
 updated: 2016-09-03T10:07:29-04:00
+header-includes: <meta http-equiv="refresh" content="0; URL=http://socialistplanning.org/posts/review-peoples-republic">
 ---
 
 **People's Republic of Walmart**, by Leigh Phillips and Michal
 Rozworski, is the latest short text on a political theme to issue from
 [Verso](https://www.versobooks.com/) and [Jacobin
-Magazine](https://jacobinmag.com/)'s joint publishing venture. Its theme is planning, as it exists within capitalist firms today and might exist in the socialist
+Magazine](https://jacobinmag.com/)'s joint publishing venture. Its theme is planning as it exists within capitalist firms today and might exist in the socialist
 polity of tomorrow.
 
 The supercession of the market by economic planning was long thought, by
