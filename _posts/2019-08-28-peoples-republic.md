@@ -1,8 +1,9 @@
 ---
 title: "Review: People's Republic of Walmart"
 updated: 2016-09-03T10:07:29-04:00
-header-includes: <meta http-equiv="refresh" content="0; URL=http://socialistplanning.org/posts/review-peoples-republic">
 ---
+
+<meta http-equiv="refresh" content="0; URL=http://socialistplanning.org/posts/review-peoples-republic">
 
 **People's Republic of Walmart**, by Leigh Phillips and Michal
 Rozworski, is the latest short text on a political theme to issue from
